@@ -1,4 +1,4 @@
-# DoIt - Task Management Application (Frontend)
+# TODO - Task Management Application (Frontend)
 
 The frontend client for a modern task management application built with React. Features a clean, intuitive interface for managing daily tasks with real-time updates and theme customization.
 
@@ -40,3 +40,36 @@ The frontend client for a modern task management application built with React. F
 ### Installation & Setup
 
 1. Clone the repository
+2. Install dependencies
+3. Start development server
+4. Open http://localhost:3000 in your browser
+
+## Project Structure
+├── src/
+│ ├── components/ # React components
+│ ├── styles/ # Styled components
+│ ├── context/ # React context (theme)
+│ ├── redux/ # Redux store setup
+│ ├── constants/ # Constants and configs
+│ └── assets/ # Static assets
+├── public/
+└── package.json
+
+## Available Scripts
+
+- `npm start` - Run development server
+- `npm build` - Build for production
+- `npm test` - Run tests
+- `npm run eject` - Eject from Create React App
+
+## Environment Variables
+
+Create a `.env` file in the client directory:
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit changes (`git commit -m 'Add AmazingFeature'`)
+4. Push to branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
