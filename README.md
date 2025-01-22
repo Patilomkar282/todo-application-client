@@ -65,9 +65,9 @@ Create a `.env` file in the client directory:
 ## Contributing
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch 
+3. Commit changes 
+4. Push to branch 
 5. Open a Pull Request
 
 ## Output Screen Shots
