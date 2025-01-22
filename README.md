@@ -27,10 +27,6 @@ The frontend client for a modern task management application built with React. F
 - **React Icons** - UI icons
 - **Local Storage** - Data persistence
 
-## Screenshots
-
-[Add screenshots of your application here]
-
 ## Getting Started
 
 ### Prerequisites
