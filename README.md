@@ -73,3 +73,12 @@ Create a `.env` file in the client directory:
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## Output Screen Shots
+![image](https://github.com/user-attachments/assets/d830186b-e75c-4160-96ca-c4819a33c604)
+![image](https://github.com/user-attachments/assets/70993590-85fc-4434-812c-0a64204a155a)
+![image](https://github.com/user-attachments/assets/c364ee5a-9a7c-441f-b6f2-f14b44fa60e4)
+
+
+
+
