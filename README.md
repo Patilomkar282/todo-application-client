@@ -1,26 +1,42 @@
-# Todo Application
+# DoIt - Task Management Application (Frontend)
 
-A modern task management application built with React.js that helps users organize and track their daily tasks efficiently.
+The frontend client for a modern task management application built with React. Features a clean, intuitive interface for managing daily tasks with real-time updates and theme customization.
 
 ## Features
 
-- Task creation and management
-- Task completion tracking
-- Important task marking
-- Dark/Light mode theme
-- Task categories (Today, Important, Planned)
-- Visual task completion statistics
-- Responsive design
+### Core Features
+- ✅ Create, edit and delete tasks
+- 📋 Organize tasks by categories (All, Today, Important, Planned)
+- ⭐ Mark tasks as important
+- ✔️ Track task completion status
+- 🌓 Dark/Light theme toggle
+- 📊 Visual task completion progress
 
-## Technologies Used
+### User Interface
+- 🎯 Clean, minimal design
+- 📱 Fully responsive layout
+- 🔄 Smooth transitions and animations
+- 📈 Task completion pie chart
 
-- React.js
-- Redux
-- Styled Components
-- React Router
-- React Icons
+## Tech Stack
+
+- **React** - Frontend framework
+- **Redux** - State management
+- **React Router** - Navigation
+- **Styled Components** - Styling
+- **React Icons** - UI icons
+- **Local Storage** - Data persistence
+
+## Screenshots
+
+[Add screenshots of your application here]
 
 ## Getting Started
 
+### Prerequisites
+- Node.js (v14 or higher)
+- npm/yarn
+
+### Installation & Setup
+
 1. Clone the repository
-2. Install dependencies:
